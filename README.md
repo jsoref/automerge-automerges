@@ -1,1 +1,3 @@
-# automerge-automerges
+# auto-merge--auto-merges
+
+Hello world
